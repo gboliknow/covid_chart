@@ -1,6 +1,8 @@
 # covid_chart
 
 A new Flutter project.
+![covid_chart](https://user-images.githubusercontent.com/27766375/114268370-7be08300-99df-11eb-9645-c02873f50818.jpg)
+
 
 ## Getting Started
 
